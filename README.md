@@ -27,3 +27,7 @@ legacy code rocks | auch politischen legacy code :-)
 deutschlandfunk hintergrund | qualitätsjournalismus, 20 min am tag
 zündfunk generator |  
 rechtsbelehrung | recht 
+[@Autoweird.fm](http://autoweird.fm/feed/podcast/feed.xml) | Unterhaltsamer Podcast ueber alles was mit Softwareentwicklung zu tun hat (Codecentric)
+[Developer's Journey](http://feeds.soundcloud.com/users/soundcloud:users:198942941/sounds.rss) | Tim's interviews with experienced software engineers about their journey
+[Weekly Dev Tips](https://player.fm/series/weekly-dev-tips) | Short episodes about common architecture and design patterns
+[LambdaCast](https://soundcloud.com/lambda-cast) | Great beginner/intermediate podcasts for everybody wanting to learn functional programming. Start at episode 1.
