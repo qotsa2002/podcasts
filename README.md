@@ -26,3 +26,4 @@ bits und so | apple lastig, differenziertes fandom & infos zu aktuellen entwickl
 legacy code rocks | auch politischen legacy code :-) 
 deutschlandfunk hintergrund | qualitätsjournalismus, 20 min am tag
 zündfunk generator |  
+rechtsbelehrung | recht 
