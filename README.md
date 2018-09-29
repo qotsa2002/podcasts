@@ -11,3 +11,16 @@ Podcast           | Why is it interesting
 [radioWissen](https://www.br.de/mediathek/podcast/radiowissen/488) | A podcast by Bayern 2 - each episode dedicated to one historical person or a scientific or cultural topic  
 [Software Engineering Radio](http://www.se-radio.net/) | Interview with an expert about a topic "that matter(s) to professional developers." (*usually about technology, but also about such topics as 'Code Retreats'*)   
 [Witness](https://www.bbc.co.uk/programmes/p004t1hd) | A BBC podcast about a historic event, with eye witness interviews or written accounts in case of events farther in the past  
+firmenfunk | ähnlich > code
+changelog | 10000 meter überflug über ein thema
+servus gruezi und hallo | zeit online chefredakteure srechen über aktuelle themen
+die psychologie der selbstbeeinflussung | nlp trainer
+heise develoer podcast (softwarearchitektour) | sw themen hilosophiert
+@autoweird.fm | bierverkostung + sw-themen !!!
+the agile pubcast | watts, author of scrum mastery
+fullstack radio | moderator top, guests not alwas so
+einschlafen podcast | zum Einschlafen
+mein scrum ist kaputt | mythen um scrum/agil ausräumen - in den shownotes
+the innoq podcast | rund um sw entw. und innoq ;-) - Einstieg in themen
+bits und so | apple lastig, differenziertes fandom & infos zu aktuellen entwicklungen
+legacy code rocks | auch politischen legacy code :-) 
