@@ -11,7 +11,7 @@ Podcast           | Why is it interesting
 [radioWissen](https://www.br.de/mediathek/podcast/radiowissen/488) | A podcast by Bayern 2 - each episode dedicated to one historical person or a scientific or cultural topic  
 [Software Engineering Radio](http://www.se-radio.net/) | Interview with an expert about a topic "that matter(s) to professional developers." (*usually about technology, but also about such topics as 'Code Retreats'*)   
 [Witness](https://www.bbc.co.uk/programmes/p004t1hd) | A BBC podcast about a historic event, with eye witness interviews or written accounts in case of events farther in the past  
-firmenfunk | ähnlich > code
+[firmenfunk](https://firmenfunk.com/) | ähnlich > code
 changelog | 10000 meter überflug über ein thema
 servus gruezi und hallo | zeit online chefredakteure srechen über aktuelle themen
 die psychologie der selbstbeeinflussung | nlp trainer
