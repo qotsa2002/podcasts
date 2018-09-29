@@ -24,3 +24,5 @@ mein scrum ist kaputt | mythen um scrum/agil ausräumen - in den shownotes
 the innoq podcast | rund um sw entw. und innoq ;-) - Einstieg in themen
 bits und so | apple lastig, differenziertes fandom & infos zu aktuellen entwicklungen
 legacy code rocks | auch politischen legacy code :-) 
+deutschlandfunk hintergrund | qualitätsjournalismus, 20 min am tag
+zündfunk generator |  
