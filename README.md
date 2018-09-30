@@ -1,5 +1,7 @@
 # podcasts
-List of interesting podcasts, not only technical - initially collected as a kickoff point for a session at SoCraTes Day Franken 2018
+List of interesting podcasts, not only technical - initially collected as a kickoff point for a session at SoCraTes Day Franken 2018.
+
+Feel free to contribute to the list, either by correcting or adding entries. Don't delete anything, even if the podcast isn't available anymore - add a comment instead. I will gladly accept pull requests. :-)
 
 Podcast           | Why is it interesting           
 ----------------- | ------------------------------- 
