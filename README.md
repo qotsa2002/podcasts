@@ -8,7 +8,7 @@ Podcast           | Why is it interesting (descriptions in the same language as 
 [Greater Than Code](https://www.greaterthancode.com/) | A group of panelists and a guest from the industry talk about the non technical aspects of working in software development - communication, inclusion, self care, ...
 [Hanselminutes](https://hanselminutes.com/)  | Scott Hanselman (Microsoft) talks with a guest about their way to software development (or other profession) and their work - usually more technology oriented, but also reflecting on the impact of their work
 [Astronomy Cast](http://www.astronomycast.com/) | Dr. Pamela Gay and Fraser Cain talk about what we know about the cosmos and how we know it (*best female voice*)
-[Agile in 3 Minutes](https://agilein3minut.es/) | Amitai Schleier reads a short essay about one aspect of thinking and doing business effectively in each 3 minute episode (*best male voice*)
+[Agile in 3 Minutes](https://agilein3minut.es/) | Amitai Schlair reads a short essay about one aspect of thinking and doing business effectively in each 3 minute episode (*best male voice*)
 [Ach? - Triumvirat für historisch inspirierte Humorvermittlung](https://das-a.ch/) | One of the three hosts (Dominik, Philipp, Jürgen) presents facts about the life of an interesting but not very well known historical person, while the others try to guess what happened next or speculate what would have been more funny or absurd that could have happened (*funny, crazy, sometimes mind-boggling*)
 [radioWissen](https://www.br.de/mediathek/podcast/radiowissen/488) | Jede Episode widmet sich einer historischen Person oder einem wissenschaftlichen oder kulturellen Thema (Bayern 2)
 [Software Engineering Radio](http://www.se-radio.net/) | Interview with an expert about a topic "that matter(s) to professional developers." (*usually about technology, but also about such topics as 'Code Retreats'*)
@@ -22,14 +22,14 @@ Podcast           | Why is it interesting (descriptions in the same language as 
 [fullstack radio](http://www.fullstackradio.com/) | "Every episode, Adam Wathan is joined by a guest to talk about everything from product design and user experience to unit testing and system administration". Moderator top, guests not always so. A lot of interesting links in the show notes.
 [Einschlafen Podcast](http://einschlafen-podcast.de/) | "Entspannte Texte zum Einschlafen oder Zuhören und abgelenkt sein"
 [Mein Scrum ist kaputt](https://www.heise.de/developer/MeinScrumIstKaputt-4076346.html) | Mythen um Srum/Agil ausräumen, typische Fehler und wie sie vermieden werden können - Literaturhinweise in den Shownotes (heise developer)
-[the innoq podcast]() | rund um sw entw. und innoq ;-) - Einstieg in themen
-[bits und so]() | apple lastig, differenziertes fandom & infos zu aktuellen entwicklungen
-[legacy code rocks]() | auch politischen legacy code :-)
-[deutschlandfunk hintergrund]() | qualitätsjournalismus, 20 min am tag
-[zündfunk generator]() |
-[rechtsbelehrung]() | recht
-[@Autoweird.fm](http://autoweird.fm/feed/podcast/feed.xml) | Unterhaltsamer Podcast ueber alles was mit Softwareentwicklung zu tun hat (Codecentric) - mit Bierverkostung am Anfang jedes Casts
-[Developer's Journey](http://feeds.soundcloud.com/users/soundcloud:users:198942941/sounds.rss) | Tim's interviews with experienced software engineers about their journey
+[the innoq podcast](https://www.innoq.com/de/podcast/) | rund um sw entw. und innoq ;-) - Einstieg in themen
+[bits und so](http://www.bitsundso.de/) | apple lastig, differenziertes fandom & infos zu aktuellen entwicklungen
+[legacy code rocks](https://www.legacycode.rocks/) | auch über politischen legacy code :-) (en)
+[deutschlandfunk hintergrund](https://www.deutschlandfunk.de/hintergrund.723.de.html) | qualitätsjournalismus, 20 min am tag
+[zündfunk generator](https://www.br.de/radio/bayern2/sendungen/zuendfunk/kolumnen-sendungen/generator/index.html) | "Ideen aus Pop, Kultur und Gesellschaft"
+[rechtsbelehrung](https://rechtsbelehrung.com/) | "Jurapodcast, der sich monatlich dem Recht und seinen Auswirkungen auf moderne Technologien und die Gesellschaft widmet"
+[@Autoweird.fm](http://autoweird.fm/) | Unterhaltsamer Podcast ueber alles was mit Softwareentwicklung zu tun hat (Codecentric) - mit Bierverkostung am Anfang jedes Casts
+[Developer's Journey](http://developersjourney.info/) | Tim's interviews with experienced software engineers about their journey
 [Weekly Dev Tips](https://player.fm/series/weekly-dev-tips) | Short episodes about common architecture and design patterns
 [LambdaCast](https://soundcloud.com/lambda-cast) | Great beginner/intermediate podcasts for everybody wanting to learn functional programming. Start at episode 1.
 [Aufwachen Podcast](https://aufwachen-podcast.de/) | Der bissigste Review der täglichen Nachrichten, den man sich vorstellen kann
