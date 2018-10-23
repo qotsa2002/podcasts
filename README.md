@@ -8,8 +8,8 @@ Podcast           | Why is it interesting (descriptions in the same language as 
 [Greater Than Code](https://www.greaterthancode.com/) | A group of panelists and a guest from the industry talk about the non technical aspects of working in software development - communication, inclusion, self care, ...
 [Hanselminutes](https://hanselminutes.com/)  | Scott Hanselman (Microsoft) talks with a guest about their way to software development (or other profession) and their work - usually more technology oriented, but also reflecting on the impact of their work
 [Astronomy Cast](http://www.astronomycast.com/) | Dr. Pamela Gay and Fraser Cain talk about what we know about the cosmos and how we know it (*best female voice*)
-[Agile in 3 Minutes](https://agilein3minut.es/) | Amitai Schlair reads a short essay about one aspect of thinking and doing business effectively in each 3 minute episode (*best male voice*)
-[Ach? - Triumvirat für historisch inspirierte Humorvermittlung](https://das-a.ch/) | One of the three hosts (Dominik, Philipp, Jürgen) presents facts about the life of an interesting but not very well known historical person, while the others try to guess what happened next or speculate what would have been more funny or absurd that could have happened (*funny, crazy, sometimes mind-boggling*)
+[Agile in 3 Minutes](https://agilein3minut.es/) | Amitai Schleier (or Schlair on some websites) reads a short essay about one aspect of thinking and doing business effectively in each 3 minute episode (*best male voice*)
+[Ach? - Triumvirat für historisch inspirierte Humorvermittlung](https://das-a.ch/) | One of the three hosts (Dominik, Philipp, Jürgen) presents facts about the life of an interesting but not very well known historical person, while the others try to guess what happened next or speculate what would have been more funny or absurd that could have happened (*funny, crazy, sometimes mind-boggling and german ;-)*)
 [radioWissen](https://www.br.de/mediathek/podcast/radiowissen/488) | Jede Episode widmet sich einer historischen Person oder einem wissenschaftlichen oder kulturellen Thema (Bayern 2)
 [Software Engineering Radio](http://www.se-radio.net/) | Interview with an expert about a topic "that matter(s) to professional developers." (*usually about technology, but also about such topics as 'Code Retreats'*)
 [Witness](https://www.bbc.co.uk/programmes/p004t1hd) | A BBC podcast about a historic event, with eye witness interviews or written accounts in case of events farther in the past
@@ -40,5 +40,5 @@ Podcast           | Why is it interesting (descriptions in the same language as 
 [Developer's Journey](http://developersjourney.info/) | Talks with interesting developers
 [Radio Tatort](http://www.ard.de/home/radio/ARD_Radio_Tatort/94130/index.html) | Krimi für die Ohren
 [tagesschau](http://www.tagesschau.de/download/podcast/) | Die Tonspur der ARD-Nachrichten
-[Monitor](https://www.ardmediathek.de/tv/Monitor/Sendung?documentId=438224&bcastId=438224) | Die bekannte Politsendung als VideoPodcast
-[Die Anstalt](https://www.zdf.de/comedy/die-anstalt) | Die bekannte Kabaretsendung als VideoPodcast
+[Monitor](https://www.ardmediathek.de/tv/Monitor/Sendung?documentId=438224&bcastId=438224) | Die bekannte Politsendung als Video-Podcast
+[Die Anstalt](https://www.zdf.de/comedy/die-anstalt) | Die bekannte Kabarettsendung als Video-Podcast
