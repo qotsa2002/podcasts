@@ -37,7 +37,6 @@ Podcast           | Why is it interesting (descriptions in the same language as 
 [Command Line Heros](https://www.redhat.com/en/command-line-heroes) | Super gut gemachte Doku für die Ohren über DevOps - "An original podcast about the people who transform technology from the command line up."
 [JavaScript Jabber](https://devchat.tv/js-jabber/) | A weekly everything you need to know about JavaScript
 [Adventues in Angular](https://devchat.tv/adv-in-angular/) | Podcast all about Angular, sometimes with guests of the ng world
-[Developer's Journey](http://developersjourney.info/) | Talks with interesting developers
 [Radio Tatort](http://www.ard.de/home/radio/ARD_Radio_Tatort/94130/index.html) | Krimi für die Ohren
 [tagesschau](http://www.tagesschau.de/download/podcast/) | Die Tonspur der ARD-Nachrichten
 [Monitor](https://www.ardmediathek.de/tv/Monitor/Sendung?documentId=438224&bcastId=438224) | Die bekannte Politsendung als Video-Podcast
