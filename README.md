@@ -12,7 +12,7 @@ Podcast           | Why is it interesting (descriptions in the same language as 
 [Astronomy Cast](http://www.astronomycast.com/) | Dr. Pamela Gay and Fraser Cain talk about what we know about the cosmos and how we know it (*best female voice*)
 [Aufwachen Podcast](https://aufwachen-podcast.de/) | Der bissigste Review der täglichen Nachrichten, den man sich vorstellen kann
 [@Autoweird.fm](http://autoweird.fm/) | Unterhaltsamer Podcast ueber alles was mit Softwareentwicklung zu tun hat (Codecentric) - mit Bierverkostung am Anfang jedes Casts
-[Binärgewitter]() | IT-News kommentiert
+[Binärgewitter](http://blog.binaergewitter.de/) | IT-News kommentiert
 [bits und so](http://www.bitsundso.de/) | apple lastig, differenziertes fandom & infos zu aktuellen entwicklungen
 [changelog](https://changelog.com/podcast) | "Conversations with the hackers, leaders, and innovators of software development" - usually a 30000 feet overview of a topic
 [Conversations about Software Engineering](https://www.case-podcast.org/)|
@@ -26,15 +26,15 @@ Podcast           | Why is it interesting (descriptions in the same language as 
 [firmenfunk](https://firmenfunk.com/) | Ähnliche Temen wie in "Greater Than Code", mit Gästen aus dem deutschsprachigen Raum.
 [fullstack radio](http://www.fullstackradio.com/) | "Every episode, Adam Wathan is joined by a guest to talk about everything from product design and user experience to unit testing and system administration". Moderator top, guests not always so. A lot of interesting links in the show notes.
 [Greater Than Code](https://www.greaterthancode.com/) | A group of panelists and a guest from the industry talk about the non technical aspects of working in software development - communication, inclusion, self care, ...
-[Herr Mies wills wissen]() | IT-Themen
+[Herr Mies wills wissen](https://mies.me/) | IT-Themen
 [JavaScript Jabber](https://devchat.tv/js-jabber/) | A weekly everything you need to know about JavaScript
 [Jung&Naiv](http://www.jungundnaiv-podcast.de/) | Politik für Desinteressierte bringt die Politiker auf den Punkt
 [Hanselminutes](https://hanselminutes.com/)  | Scott Hanselman (Microsoft) talks with a guest about their way to software development (or other profession) and their work - usually more technology oriented, but also reflecting on the impact of their work
 [Lady Bug Podcast]()| Drei Frauen aus der IT erklären verständlich IT-Themen
-[Lage der Nation]() | Philipp Banse, Ulf Buermeyer  - Kommentare zu aktuellen Entwicklungen, Beschlüssen
+[Lage der Nation](https://lagedernation.org/) | Philipp Banse, Ulf Buermeyer  - Kommentare zu aktuellen Entwicklungen, Beschlüssen
 [LambdaCast](https://soundcloud.com/lambda-cast) | Great beginner/intermediate podcasts for everybody wanting to learn functional programming. Start at episode 1.
 [legacy code rocks](https://www.legacycode.rocks/) | auch über politischen legacy code :-) (en)
-[Logbuch Netzpolitik]() | Tim Pritlove, Linus Neumann + Gäste
+[Logbuch Netzpolitik](https://logbuch-netzpolitik.de/) | Tim Pritlove, Linus Neumann + Gäste
 [Malicous Life](https://malicious.life/) | Hacker-History
 [Mein Scrum ist kaputt](https://www.heise.de/developer/MeinScrumIstKaputt-4076346.html) | Mythen um Srum/Agil ausräumen, typische Fehler und wie sie vermieden werden können - Literaturhinweise in den Shownotes (heise developer)
 [Methodisch inkorrekt](http://minkorrekt.de) | Wissenschaftliche bis pseudowissenschaftliche Themen aufbereitet und analysiert. 
